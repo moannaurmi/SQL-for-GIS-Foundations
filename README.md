@@ -1,60 +1,52 @@
-# sql-learning
-Learning SQL fundamentals for spatial databases - preparing for MSc GIS (Sept 2026)
+# SQL for GIS Foundations
 
-## Progress
+Building core SQL capability for spatial data workflows ahead of MSc GIS (2026).
 
-**Started:** February 19, 2026  
-**Status:** In Progress
+## Status
 
-### Completed Lessons
+Started: February 2026
+Progress: Active development
 
--  **Lesson 1:** SELECT queries
--  **Lesson 2:** Queries with constraints (WHERE)
--  **Lesson 3:** Filtering and sorting (ORDER BY, LIMIT)
--  **Lesson 6:** Multi-table queries with JOINs
--  **Lesson 7:** OUTER JOINs
--  **Lesson 8:** NULLs handling
--  **Lesson 9:** Expressions, math operators, AS keyword
--  **Lesson 10:** Aggregates (COUNT, SUM, AVG, MAX, MIN)
+## Core Topics Covered
 
-### Currently Working On
-
-- **Lesson 11:** GROUP BY
-
-### Upcoming
-
--  **Lesson 12:** ORDER BY with aggregates
--  **Lesson 13:** Subqueries
--  **Lessons 14-18:** INSERT, UPDATE, DELETE, CREATE TABLE, ALTER TABLE
+* SELECT, FROM, WHERE
+* Filtering operators (BETWEEN, IN, LIKE)
+* ORDER BY and LIMIT
+* INNER and LEFT JOIN
+* NULL handling
+* Expressions and column aliasing
+* Aggregate functions (COUNT, SUM, AVG, MAX, MIN)
+* GROUP BY (in progress)
 
 ## Practice Work
 
-- **Custom 30-question worksheet:** 25/30 complete
-- **Math operators practice:** 20/20 ✅
-- **Aggregates practice:** 20/20 ✅
+* 30-question custom query set (25 complete)
+* Targeted aggregates and maths drills
+* Structured JOIN exercises
 
-## Skills Developed
+## Repository Contents
 
-- SELECT, FROM, WHERE clauses
-- Filtering with comparison operators (>, <, =, BETWEEN, IN, LIKE)
-- Sorting and limiting results (ORDER BY, LIMIT)
-- Multi-table queries (INNER JOIN, LEFT JOIN)
-- Handling missing data (IS NULL, IS NOT NULL)
-- Mathematical operations and column aliasing
-- Aggregate functions and data summarization
+* Query solutions organised by topic
+* Practice datasets
+* Progressive difficulty examples
 
-## Working On
+## Direction of Travel
 
-- **Accuracy:** Slowing down to catch typos and column name errors
-- **Detail attention:** Reading questions more carefully before answering
-- **Syntax precision:** Double-checking query structure before running
+Next focus:
+
+* Subqueries
+* Data modification (INSERT, UPDATE, DELETE)
+* Table design
+* Transition into PostGIS and spatial SQL
 
 ## Resources
 
-- SQLBolt interactive tutorials
-- Custom practice exercises
-- Real-world scenario questions
+* SQLBolt interactive tutorials
+* Custom practice material
+* Scenario-based exercises
 
 ---
 
-*Last updated: February 24, 2026*
+*Last updated: February 2026*
+
+This version keeps your work visible but removes the student energy. It reads like someone deliberately building toward geospatial data engineering rather than completing exercises.
