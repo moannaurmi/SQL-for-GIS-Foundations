@@ -8,24 +8,24 @@ Learning SQL fundamentals for spatial databases - preparing for MSc GIS (Sept 20
 
 ### Completed Lessons
 
-- ✅ **Lesson 1:** SELECT queries
-- ✅ **Lesson 2:** Queries with constraints (WHERE)
-- ✅ **Lesson 3:** Filtering and sorting (ORDER BY, LIMIT)
-- ✅ **Lesson 6:** Multi-table queries with JOINs
-- ✅ **Lesson 7:** OUTER JOINs
-- ✅ **Lesson 8:** NULLs handling
-- ✅ **Lesson 9:** Expressions, math operators, AS keyword
-- ✅ **Lesson 10:** Aggregates (COUNT, SUM, AVG, MAX, MIN)
+-  **Lesson 1:** SELECT queries
+-  **Lesson 2:** Queries with constraints (WHERE)
+-  **Lesson 3:** Filtering and sorting (ORDER BY, LIMIT)
+-  **Lesson 6:** Multi-table queries with JOINs
+-  **Lesson 7:** OUTER JOINs
+-  **Lesson 8:** NULLs handling
+-  **Lesson 9:** Expressions, math operators, AS keyword
+-  **Lesson 10:** Aggregates (COUNT, SUM, AVG, MAX, MIN)
 
 ### Currently Working On
 
-- 🔄 **Lesson 11:** GROUP BY
+- **Lesson 11:** GROUP BY
 
 ### Upcoming
 
-- ⬜ **Lesson 12:** ORDER BY with aggregates
-- ⬜ **Lesson 13:** Subqueries
-- ⬜ **Lessons 14-18:** INSERT, UPDATE, DELETE, CREATE TABLE, ALTER TABLE
+-  **Lesson 12:** ORDER BY with aggregates
+-  **Lesson 13:** Subqueries
+-  **Lessons 14-18:** INSERT, UPDATE, DELETE, CREATE TABLE, ALTER TABLE
 
 ## Practice Work
 
